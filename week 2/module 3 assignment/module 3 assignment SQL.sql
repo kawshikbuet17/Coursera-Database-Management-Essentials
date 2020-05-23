@@ -6,6 +6,7 @@
 	--chailei sob table delete/drop kore dewa jabena jodi oi table er konokisu onno table e connected thake. delete manually korleo delete hobena. neutral table age remove korte hobe.
 	--ek nam er constraint dui jaygay use kora jabena, even alada table eo na
 	--character gula case sensitive na.
+	--multiple part only navicat ei eksathe run korano possible. other software e ';' er pore ar read korbe na.
 	--eksathe onek gula table run korale error dile particular part alada sql e run koraye check korte hobe error ki eta bojhar jonno.
 
 
