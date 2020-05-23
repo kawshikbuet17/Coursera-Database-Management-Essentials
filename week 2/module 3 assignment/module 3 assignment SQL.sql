@@ -1,6 +1,13 @@
 ---------COURSERA DATABASE MANAGEMENT ESSENTIALS 
 -------------WEEK-2 - MODULE-3 ASSIGNMENT 
----------RUN it to get all the tables and data
+-------RUN it on Navicat to get all the tables and data
+
+--NOTE:
+	--chailei sob table delete/drop kore dewa jabena jodi oi table er konokisu onno table e connected thake. delete manually korleo delete hobena. neutral table age remove korte hobe.
+	--ek nam er constraint dui jaygay use kora jabena, even alada table eo na
+	--character gula case sensitive na.
+	--eksathe onek gula table run korale error dile particular part alada sql e run koraye check korte hobe error ki eta bojhar jonno.
+
 
 ---------------EMPLOYEE--------------------
 
