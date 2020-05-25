@@ -1,0 +1,9 @@
+Oracle Database:
+
+SELECT
+  EmpName,
+  Department,
+  Phone,
+  Email
+FROM employee
+WHERE Phone LIKE ('3-%');

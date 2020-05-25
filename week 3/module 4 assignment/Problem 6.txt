@@ -1,0 +1,8 @@
+Oracle Database:
+
+SELECT
+  PlanNo,
+  count(LineNo)  AS Line,
+  sum(NumberFld) AS Resource
+FROM eventplanline
+GROUP BY PlanNo;

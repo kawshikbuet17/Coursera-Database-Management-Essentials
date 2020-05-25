@@ -1,0 +1,8 @@
+Oracle Database:
+
+SELECT
+  LocNo,
+  LocName
+FROM location, facility
+WHERE location.FacNo = facility.FacNo AND
+      FacName = 'Basketball arena'

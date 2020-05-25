@@ -1,0 +1,5 @@
+Oracle Database:
+
+SELECT *
+FROM resourcetbl
+WHERE Rate BETWEEN 10 AND 20;

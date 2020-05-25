@@ -1,0 +1,6 @@
+Oracle Database:
+
+SELECT eventno, dateauth, status
+FROM eventrequest
+WHERE dateauth BETWEEN to_date('7/1/2018','mm/dd/yyyy') AND to_date('7/31/2018','mm/dd/yyyy') 
+  AND (status = 'Approved' OR status = 'Denied');

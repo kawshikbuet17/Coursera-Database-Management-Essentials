@@ -1,0 +1,7 @@
+Oracle Database:
+
+SELECT DISTINCT
+  City,
+  State,
+  Zip
+FROM customer;
