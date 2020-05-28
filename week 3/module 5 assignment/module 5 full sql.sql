@@ -102,7 +102,7 @@ WHERE estaudience BETWEEN 5000 AND 10000
   AND empname = 'Mary Manager';
 
 
--------------SQL Statements with Errors and Poor Formatting  4 ----------
+-------------SQL Statements with Errors and Poor Formatting  5 ----------
 SELECT eventplan.planno, lineno, resname, numberfld, timestart, timeend
     FROM eventrequest, facility, eventplan, eventplanline, resourcetbl
     WHERE estaudience = 10000
