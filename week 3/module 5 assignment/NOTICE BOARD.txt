@@ -1,6 +1,0 @@
-EMPLOYEE table was taken from MODULE 3.
-They made a mistake.
-In Module3 they used empname. But
-In Module5 they used empfirstname and emplastname and inserted like this.
-But in Query they go for "empname". Silly mistake, but should be awared of this.
- 
